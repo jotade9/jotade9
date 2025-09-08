@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Juan Diego
 
-🎓 Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, y estoy a punto de finalizar mis estudios. Me considero una persona **proactiva**, **simpática** y con muchas ganas de seguir aprendiendo y creciendo en el mundo del desarrollo web y la programación.
+💻 Soy Desarrollador Web Junior con formación en Desarrollo de Aplicaciones Web (DAW).** Me considero una persona **proactiva**, **simpática** y con muchas ganas de seguir aprendiendo y creciendo en el mundo del desarrollo web y la programación.
 
 ---
 
